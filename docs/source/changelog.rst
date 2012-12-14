@@ -6,6 +6,10 @@ Changelog
 ----------------
 
 * Add ``update()`` method.
+* Correct the ``requests`` requirement to require a version that has everything
+  we need.
+* Make ``send_request`` method public so you can use ES APIs we don't yet
+  explicitly support.
 
 
 0.2 (2012-10-06)
