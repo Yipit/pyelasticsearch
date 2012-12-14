@@ -2,7 +2,7 @@ Changelog
 =========
 
 
-0.3 (unreleased)
+v0.3 (unreleased)
 ----------------
 
 * Add ``update()`` method.
@@ -12,7 +12,7 @@ Changelog
   explicitly support.
 
 
-0.2 (2012-10-06)
+v0.2 (2012-10-06)
 ----------------
 
 Many thanks to Erik Rose for almost completely rewriting the API to follow
@@ -98,7 +98,7 @@ Other changes:
 * Many other internal improvements
 
 
-0.1 (2012-08-30)
+v0.1 (2012-08-30)
 ----------------
 
 Initial release based on the work of Robert Eanes and other the other authors.
